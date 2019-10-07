@@ -16,6 +16,7 @@
         <outline text="g-issue" title="global-issue" type="rss" xmlUrl="http://www.globalissues.org/news/feed" htmlUrl="http://www.globalissues.org/news/feed"/>
         <outline text="independent" title="independent" type="rss" xmlUrl="http://www.independent.co.uk/news/world/rss" htmlUrl="http://www.independent.co.uk/news/world/rss"/>
         <outline text="toronto star" title="toronto star" type="rss" xmlUrl="https://www.thestar.com/feeds.articles.news.world.rss" htmlUrl="https://www.thestar.com/feeds.articles.news.world.rss"/>
+        <outline text="kyodo news" title="kyodonews" type="rss" xmlUrl="http://english.kyodonews.jp/rss/news.xml" htmlUrl="http://english.kyodonews.jp/rss/news.xml"/>
     
     
     
