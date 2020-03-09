@@ -18,9 +18,7 @@
         <outline text="toronto star" title="toronto star" type="rss" xmlUrl="https://www.thestar.com/feeds.articles.news.world.rss" htmlUrl="https://www.thestar.com/feeds.articles.news.world.rss"/>
         <outline text="kyodo news" title="kyodonews" type="rss" xmlUrl="http://english.kyodonews.jp/rss/news.xml" htmlUrl="http://english.kyodonews.jp/rss/news.xml"/>
         <outline text="fox" title="fox news" type="rss" xmlUrl="https://feeds.foxnews.com/foxnews/latest" htmlUrl="https://feeds.foxnews.com/foxnews/latest"/>
-    
-    
-    
+        <outline text="t66y pics" title="t66y pics" type="rss" xmlUrl="https://rsshub.app/t66y/16" htmlUrl="http://www.t66y.com/thread0806.php?fid=16"/>
     
     
         <outline text="csmonitor" title="csmonitor" type="rss" xmlUrl="http://rss.csmonitor.com/feeds/world" htmlUrl="http://rss.csmonitor.com/feeds/world"/>
