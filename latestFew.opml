@@ -22,6 +22,9 @@
         <outline text="wsj world" title="wsj world news" type="rss" xmlUrl="https://feeds.a.dj.com/rss/RSSWorldNews.xml" htmlUrl="https://feeds.a.dj.com/rss/RSSWorldNews.xml"/>
     
         <outline text="csmonitor" title="csmonitor" type="rss" xmlUrl="http://rss.csmonitor.com/feeds/world" htmlUrl="http://rss.csmonitor.com/feeds/world"/>
+        <outline text="bbc" title="bbc" type="rss" xmlUrl="http://newsrss.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml" htmlUrl="http://newsrss.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml"/>
+        <outline text="bbcchina" title="bbcchina" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/asia/china/rss.xml" htmlUrl="http://feeds.bbci.co.uk/news/world/asia/china/rss.xml"/>
+        
     
     
     
